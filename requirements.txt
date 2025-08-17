@@ -1,0 +1,6 @@
+scikit-learn
+joblib
+numpy
+gradio
+python-dotenv
+huggingface_hub
