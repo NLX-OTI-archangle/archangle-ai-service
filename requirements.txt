@@ -1,6 +1,5 @@
-scikit-learn
-joblib
-numpy
-gradio
+flask
+flask-cors
 python-dotenv
-huggingface_hub
+gradio_client
+gunicorn
